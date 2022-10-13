@@ -1,8 +1,8 @@
 {
-  "name": "@capacitor-community/firebase-analytics",
+  "name": "@ubie-oss/firebase-analytics",
   "version": "1.0.1",
   "description": "A native plugin for firebase analytics.",
-  "homepage": "https://github.com/capacitor-community/firebase-analytics",
+  "homepage": "https://github.com/ubie-oss/firebase-analytics",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
